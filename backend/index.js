@@ -18,7 +18,7 @@ let app = express()
 // ---- CORS MUST BE THE FIRST MIDDLEWARE ----
 const allowedOrigins = [
     "https://auralearn-1-egcs.onrender.com",
-    credentials :true
+    credentials: true
 ];
 
 const corsOptions = {
