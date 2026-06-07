@@ -17,9 +17,7 @@ let app = express()
 
 // ---- CORS MUST BE THE FIRST MIDDLEWARE ----
 const allowedOrigins = [
-    "http://localhost:5173",
-  "https://learning-management-system-nine-bay.vercel.app",
-  // "http://localhost:3000"
+    "https://auralearn-1-egcs.onrender.com"
 ];
 
 const corsOptions = {
