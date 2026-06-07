@@ -35,7 +35,7 @@ import MistakeEngine from './pages/MistakeEngine'
 import ResumeAnalyzer from './pages/ResumeAnalyzer'
 import getAllReviews from './customHooks/getAllReviews'
 
-export const serverUrl ="http://localhost:5000"
+export const serverUrl ="https://auralearn-8y96.onrender.com"
 
 function App() {
 
